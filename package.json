@@ -2,7 +2,7 @@
   "name": "covid_tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/senarchi/Covid_Tracker",
+  "homepage": "https://github.com/senarchi/COVID_TRACKER",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
